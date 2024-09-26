@@ -2,6 +2,7 @@
 ModPE script for extracting fragments of minecraft PE worlds.
 > [!Warning]
 > The script is not optimized and may cause heating and global slowdown of the device.
+> The script does not save rotations, states and block contents. (You can add it yourself)
 
 > [!Tip]
 > It is recommended to extract the selected fragment in parts.
